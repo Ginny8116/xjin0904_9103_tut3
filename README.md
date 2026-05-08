@@ -4,7 +4,7 @@
 
 ### Example: Swirling Vortex Effect
 
-![Starry Night](Image/starry night.png)
+![Starry Night](Image/starrynight.png)
 
 ![Spiral Effect](Image/spiral.png)
 
